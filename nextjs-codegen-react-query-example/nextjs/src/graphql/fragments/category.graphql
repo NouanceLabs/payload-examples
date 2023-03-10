@@ -1,0 +1,3 @@
+fragment Category on Category {
+  name
+}

@@ -1,0 +1,8 @@
+query AllPosts($where: Post_where) {
+  Posts(where: $where) {
+    docs {
+      ...Post
+    }
+    totalDocs
+  }
+}
