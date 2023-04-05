@@ -10,3 +10,7 @@ A list of examples based on our articles, [contact us](https://nouance.io/contac
 ## How to extend the REST API in Payload with Express
 
 [nouance.io/articles/how-to-extend-the-rest-api-in-payload-with-express](https://nouance.io/articles/how-to-extend-the-rest-api-in-payload-with-express)
+
+## How to extend GraphQL in Payload with custom queries, mutations and re-usable types
+
+[nouance.io/articles/how-to-extend-graphql-in-payload-with-custom-queries-mutations-and-re-usable-types](https://nouance.io/articles/how-to-extend-graphql-in-payload-with-custom-queries-mutations-and-re-usable-types)

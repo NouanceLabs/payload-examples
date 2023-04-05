@@ -1,4 +1,4 @@
-import { CollectionConfig } from 'payload/types';
+import { CollectionConfig } from 'payload/types'
 
 const Posts: CollectionConfig = {
   slug: 'posts',
@@ -26,7 +26,7 @@ const Posts: CollectionConfig = {
     {
       name: 'category',
       type: 'relationship',
-      relationTo: 'categories'
+      relationTo: 'categories',
     },
     {
       name: 'tags',
@@ -35,8 +35,14 @@ const Posts: CollectionConfig = {
       hasMany: true,
     },
     {
+      name: 'likeCount',
+      type: 'number',
+      required: true,
+      defaultValue: 0,
+    },
+    {
       name: 'content',
-      type: 'richText'
+      type: 'richText',
     },
     {
       name: 'status',
@@ -54,9 +60,9 @@ const Posts: CollectionConfig = {
       defaultValue: 'draft',
       admin: {
         position: 'sidebar',
-      }
-    }
+      },
+    },
   ],
 }
 
-export default Posts;
+export default Posts
