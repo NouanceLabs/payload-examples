@@ -14,3 +14,7 @@ A list of examples based on our articles, [contact us](https://nouance.io/contac
 ## How to extend GraphQL in Payload with custom queries, mutations and re-usable types
 
 [nouance.io/articles/how-to-extend-graphql-in-payload-with-custom-queries-mutations-and-re-usable-types](https://nouance.io/articles/how-to-extend-graphql-in-payload-with-custom-queries-mutations-and-re-usable-types)
+
+## How to setup TailwindCSS with PayloadCMS
+
+[nouance.io/articles/how-to-setup-tailwindcss-with-payloadcms-and-webpack](https://nouance.io/articles/how-to-setup-tailwindcss-with-payloadcms-and-webpack)
